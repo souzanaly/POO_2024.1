@@ -1,2 +1,2 @@
-# POO_2024.1
+# repositorio de POO
 infoweb.2024\1
